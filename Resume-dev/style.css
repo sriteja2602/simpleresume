@@ -1,0 +1,10 @@
+img{
+  border-radius: 80%;
+  margin-bottom: 10px;
+}
+#border{
+  border-bottom: 2px solid black;
+}
+table,tr,th,td{
+  border: 2px solid black;
+}
